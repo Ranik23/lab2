@@ -1,0 +1,16 @@
+{
+    "configurations": [
+    {
+        "name": "Launch",
+        "type": "cppdbg",
+        "request": "launch",
+        "program": "/home/anton/cpp_files/lab2/build/Main",
+        "args": [],
+        "stopAtEntry": false,
+        "cwd": "/home/anton/cpp_files/lab2/",
+        "environment": [],
+        "externalConsole": false,
+        "MIMode": "gdb",
+    }
+    ]
+}
