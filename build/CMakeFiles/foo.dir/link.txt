@@ -1,2 +1,0 @@
-/usr/bin/ar qc libfoo.a CMakeFiles/foo.dir/cpp_files/LinkedList.cpp.o CMakeFiles/foo.dir/cpp_files/PyramidicSort.cpp.o CMakeFiles/foo.dir/cpp_files/Vector.cpp.o CMakeFiles/foo.dir/cpp_files/ShellSort.cpp.o
-/usr/bin/ranlib libfoo.a

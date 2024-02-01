@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/Main.dir/main.cpp.o CMakeFiles/Main.dir/sources/Vector.cpp.o CMakeFiles/Main.dir/sources/TimeCompare.cpp.o CMakeFiles/Main.dir/sources/ShellSort.cpp.o CMakeFiles/Main.dir/sources/PyramidicSort.cpp.o CMakeFiles/Main.dir/sources/operating.cpp.o CMakeFiles/Main.dir/sources/LinkedList.cpp.o -o Main 

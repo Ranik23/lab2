@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/LinkedListTest.dir/tests/LinkedListTest.cpp.o -o LinkedListTest  -lgtest -lgtest_main 

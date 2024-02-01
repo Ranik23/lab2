@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/PyramidicTest.dir/tests/PyramidicTest.cpp.o -o PyramidicTest  -lgtest -lgtest_main 

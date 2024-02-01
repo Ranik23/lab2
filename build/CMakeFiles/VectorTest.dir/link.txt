@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/VectorTest.dir/tests/VectorTest.cpp.o -o VectorTest  -lgtest -lgtest_main 

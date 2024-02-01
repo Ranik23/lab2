@@ -1,7 +1,0 @@
-/home/anton/cpp_files/lab2/CMakeFiles/Main.dir
-/home/anton/cpp_files/lab2/CMakeFiles/VectorTest.dir
-/home/anton/cpp_files/lab2/CMakeFiles/LinkedListTest.dir
-/home/anton/cpp_files/lab2/CMakeFiles/ShellTest.dir
-/home/anton/cpp_files/lab2/CMakeFiles/PyramidicTest.dir
-/home/anton/cpp_files/lab2/CMakeFiles/edit_cache.dir
-/home/anton/cpp_files/lab2/CMakeFiles/rebuild_cache.dir

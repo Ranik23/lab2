@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/Lab2.dir/cpp_files/LinkedList.cpp.o CMakeFiles/Lab2.dir/cpp_files/PyramidicSort.cpp.o CMakeFiles/Lab2.dir/cpp_files/ShellSort.cpp.o CMakeFiles/Lab2.dir/cpp_files/Vector.cpp.o CMakeFiles/Lab2.dir/main.cpp.o -o Lab2 
